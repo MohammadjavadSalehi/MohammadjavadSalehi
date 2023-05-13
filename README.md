@@ -124,14 +124,17 @@
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
     <a href="https://instagram.com/_mohammadjavadsalehi" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="example"/>
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="example"/>
+    </a>
+    <a href="https://t.me/MohammadjavadSalehi" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="MohammadjavadSalehi telegram account"/>
     </a>
   </div>
 </div>
 
 ----
 <div align="center">
-  <h2> 📊 Github Stats:</h2> 
+  <h2> 📊 Github Stats</h2> 
     <img src="https://github-readme-stats.vercel.app/api?username=MohammadjavadSalehi&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
     alt="https://github.com/MohammadjavadSalehi" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadjavadSalehi&theme=material-palenight" alt="https://github.com/MohammadjavadSalehi" />
