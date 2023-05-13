@@ -135,9 +135,9 @@
 ----
 <div align="center">
   <h2> 📊 Github Stats:</h2> 
-![](https://github-readme-stats.vercel.app/api?username=mohammadjavadsalehi&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohammadjavadsalehi&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadjavadsalehi&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+    <img src="https://github-readme-stats.vercel.app/api?username=MohammadjavadSalehi&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+    alt="https://github.com/MohammadjavadSalehi" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadjavadSalehi&theme=material-palenight" alt="https://github.com/MohammadjavadSalehi" />
 </div>
 
 
