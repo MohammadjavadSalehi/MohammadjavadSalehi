@@ -156,15 +156,12 @@
 </div>
 
 
+### ⚡ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-<br><br>
-
-- ⚡ Random Dev Quote:
 [![](https://visitcount.itsvg.in/api?id=mohammadjavadsalehi&icon=7&color=0)](https://visitcount.itsvg.in)
 
- <br>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
