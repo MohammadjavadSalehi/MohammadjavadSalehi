@@ -78,7 +78,7 @@
   </a> 
 </p>
 
-<h3 align="center">Cloud & Hosting:</h3>
+<h3 align="center">Cloud & Hosting</h3>
 <p align="center">
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
@@ -103,7 +103,7 @@
   </a>
 </p>
 
-<h3 align="center">Preferred IDEs  & Tools :</h3>
+<h3 align="center">Preferred IDEs  & Tools</h3>
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
