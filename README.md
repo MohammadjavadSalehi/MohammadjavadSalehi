@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available [MohammadjavadSalehi](https://github.com/MohammadjavadSalehi)
 
 - ⚡ Random Dev Quote:
-- ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)
+ ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)
 
 ---
 
