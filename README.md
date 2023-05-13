@@ -20,9 +20,8 @@
 - 👨‍💻 All of my projects are available [MohammadjavadSalehi](https://github.com/MohammadjavadSalehi)
 
 - ⚡ Random Dev Quote: <br>
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
    
-<p>&nbsp;</p>
     
   </samp>
 </div>
