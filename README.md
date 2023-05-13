@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi<img width="30" src="./resources/img/waving.gif">, I'm Mohammadjavad Salehi</h1>
+  <h1>Hi<img width="30" src="./waving.gif">, I'm Mohammadjavad Salehi</h1>
   <h3>A Passionate web developer committed to creating high-quality and efficient code.</h3>
 </div>
 
