@@ -1,9 +1,9 @@
+![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 <div align="center">
   <h1>Hi<img width="30" src="./waving.gif">, I'm Mohammadjavad Salehi</h1>
   <h3>A Passionate web developer committed to creating high-quality and efficient code.</h3>
 </div>
 
-<img align="right" width="380" height="auto" src="https://camo.githubusercontent.com/d6ebdf0be8c981a367c8226b0c0554db04a3235f4018c75ad1951fd67be61cc4/68747470733a2f2f6a75736d61726b746563682e636f6d2f7075626c69632f612f696d616765732f70616765732f7765625f646576656c6f706d656e742e676966"/>
 
 <div align="left">
   <samp>
@@ -24,7 +24,7 @@
     
   </samp>
 </div>
----
+
 
 <h2 align="center"><u><b>💻 Knowledge Base</b></u></h2>
 
