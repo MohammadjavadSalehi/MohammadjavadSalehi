@@ -3,8 +3,6 @@
   <h3>A Passionate web developer committed to creating high-quality and efficient code.</h3>
 </div>
 
-<h3 font-size="20" align="center">Passionate web developer committed to creating high-quality and efficient code.</h3>
-
 - 🌱 I’m currently learning **React js**
 
 - 👯 I’m looking to collaborate on **FrontEnd**
