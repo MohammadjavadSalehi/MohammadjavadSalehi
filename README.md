@@ -4,7 +4,7 @@
   <h3>A Passionate web developer committed to creating high-quality and efficient code.</h3>
 </div>
 
-<img align="right" width="400" height="400" src="https://madeby.studio/assets/images/insights_images/gifs/Developer.gif"/>
+<img align="right" width="400" height="200" src="https://madeby.studio/assets/images/insights_images/gifs/Developer.gif"/>
 
 <div align="left">
   <samp>
