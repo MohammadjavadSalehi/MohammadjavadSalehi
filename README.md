@@ -4,7 +4,7 @@
   <h3>A Passionate web developer committed to creating high-quality and efficient code.</h3>
 </div>
 
-<img align="right" width="auto" height="auto" src="https://madeby.studio/assets/images/insights_images/gifs/Developer.gif"/>
+<img align="right" width="400" height="400" src="https://madeby.studio/assets/images/insights_images/gifs/Developer.gif"/>
 
 <div align="left">
   <samp>
@@ -18,11 +18,7 @@
 - 🤝 I’m looking for help with **FrontEnd**
 
 - 👨‍💻 All of my projects are available [MohammadjavadSalehi](https://github.com/MohammadjavadSalehi)
-
-- ⚡ Random Dev Quote: <br>
-
    
-    
   </samp>
 </div>
 
@@ -162,8 +158,10 @@
 
 
 ---
+- ⚡ Random Dev Quote:
 [![](https://visitcount.itsvg.in/api?id=mohammadjavadsalehi&icon=7&color=0)](https://visitcount.itsvg.in)
 
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
