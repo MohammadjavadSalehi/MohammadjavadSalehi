@@ -4,6 +4,7 @@
   <h3>A Passionate web developer committed to creating high-quality and efficient code.</h3>
 </div>
 
+<img align="right" width="380" height="auto" src="./resources/img/geek.gif"/>
 
 <div align="left">
   <samp>
