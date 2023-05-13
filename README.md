@@ -4,7 +4,7 @@
   <h3>A Passionate web developer committed to creating high-quality and efficient code.</h3>
 </div>
 
-<img align="right" width="380" height="auto" src="./resources/img/geek.gif"/>
+<img align="right" width="380" height="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmadeby.studio%2Finsights%2F6-simple-tips-to-improve-your-website&psig=AOvVaw2sEiQyPkyC1WPPqvOlwE1S&ust=1684072843129000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCICuucm68v4CFQAAAAAdAAAAABAx"/>
 
 <div align="left">
   <samp>
