@@ -3,6 +3,12 @@
   <h3>A Passionate web developer committed to creating high-quality and efficient code.</h3>
 </div>
 
+<img align="right" width="380" height="auto" src="https://camo.githubusercontent.com/d6ebdf0be8c981a367c8226b0c0554db04a3235f4018c75ad1951fd67be61cc4/68747470733a2f2f6a75736d61726b746563682e636f6d2f7075626c69632f612f696d616765732f70616765732f7765625f646576656c6f706d656e742e676966"/>
+
+<div align="left">
+  <samp>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 - 🌱 I’m currently learning **React js**
 
 - 👯 I’m looking to collaborate on **FrontEnd**
@@ -13,7 +19,11 @@
 
 - ⚡ Random Dev Quote: <br>
  ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)
-
+   
+<p>&nbsp;</p>
+    
+  </samp>
+</div>
 ---
 
 <h2 align="center"><u><b>💻 Knowledge Base</b></u></h2>
@@ -32,6 +42,10 @@
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
+  <a href="https://www.python.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"
+        alt="python"/>
+    </a>
 </p>
 
 <h3 align="center">Frontend</h3>
@@ -57,6 +71,10 @@
     <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
       alt="webpack"/>
   </a>
+  </a>
+     <a href="https://tailwindcss.com/" target="_blank">
+      <img src="https://img.shields.io/badge/tailwind-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind-css"/> 
+    </a>
 </p>
 
 <h3 align="center">Backend</h3>
