@@ -4,12 +4,13 @@
   <h3>A Passionate web developer committed to creating high-quality and efficient code.</h3>
 </div>
 
-<img align="right" height="auto" src="https://madeby.studio/assets/images/insights_images/gifs/Developer.gif"/>
+<img align="right" width="auto" height="auto" src="https://madeby.studio/assets/images/insights_images/gifs/Developer.gif"/>
 
 <div align="left">
   <samp>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+ 
 - 🌱 I’m currently learning **React js**
 
 - 👯 I’m looking to collaborate on **FrontEnd**
@@ -19,7 +20,7 @@
 - 👨‍💻 All of my projects are available [MohammadjavadSalehi](https://github.com/MohammadjavadSalehi)
 
 - ⚡ Random Dev Quote: <br>
- ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
    
 <p>&nbsp;</p>
     
