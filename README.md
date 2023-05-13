@@ -155,11 +155,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadjavadSalehi&theme=material-palenight" alt="https://github.com/MohammadjavadSalehi" />
 </div>
 
-
+---
 ### ⚡ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=mohammadjavadsalehi&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
