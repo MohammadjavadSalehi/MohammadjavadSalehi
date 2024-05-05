@@ -11,7 +11,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
  
-- 🌱 I’m currently learning **Next js & TypeScript**
+- 🌱 I’m currently learning **Next js & TypeScript && Vue && Nuxt**
 
 - 👯 I’m looking to collaborate on **FrontEnd**
 
